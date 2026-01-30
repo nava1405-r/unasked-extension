@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "SilentSupport",
+  "name": "UNasked",
   "version": "0.1.0",
   "description": "A silent assistive layer that adapts UI when users struggle while typing.",
   "icons": {
@@ -9,6 +9,6 @@
     "128": "assets/icons/icon128.png"
   },
   "action": {
-    "default_title": "SilentSupport"
+    "default_title": "UNasked"
   }
 }
